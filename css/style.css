@@ -1,0 +1,12 @@
+body {
+  background-color: rgb(191, 230, 217);
+}
+
+.wrapper {
+  width: 600px;
+  position: absolute;
+  background-color: rgb(181, 203, 235);
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}/*# sourceMappingURL=style.css.map */
